@@ -14,4 +14,3 @@ def manage_courses():
     for course_code in courses:
         print(f"Course Code:{course_code},Details:{courses[course_code]}")
 
-man
